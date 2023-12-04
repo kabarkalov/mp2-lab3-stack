@@ -6,6 +6,8 @@
 
 int main()
 {
-    TStack<int> st;
+    TStack<int> st(10);
+    st.GetSize();
+
     std::cout << "Hello World!\n";
 }
