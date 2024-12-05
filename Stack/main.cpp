@@ -5,6 +5,12 @@
 #include "stack.h"
 
 
+//изменения в ветке main
+//изменения в ветке main
+//изменения в ветке main
+//изменения в ветке main
+//изменения в ветке main
+
 int main()
 {
     TStack<int> s;
