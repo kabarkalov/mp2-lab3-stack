@@ -4,15 +4,10 @@
 #include <iostream>
 #include "stack.h"
 
-//изменения в ветке main
 
 int main()
 {
     TStack<int> s;
-    //важные и нужные изменения
-
-    //важные и нужные изменения в ветке newbranch
-
 
     std::cout << "Hello World!\n";
 }
