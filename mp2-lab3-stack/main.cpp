@@ -3,7 +3,7 @@
 
 int main()
 {
-  //Изменения в ветке test
+  //Изменения в ветке new
   TStack<int> st;
   std::cout << "Hello, Stack!" << std::endl;
   return 0;
